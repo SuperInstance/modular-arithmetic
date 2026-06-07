@@ -1,0 +1,9 @@
+[package]
+name = "modular-arithmetic"
+version = "0.1.0"
+edition = "2021"
+description = "Modular arithmetic toolkit with fast exponentiation, CRT, Euler's totient, primitive roots, and discrete logarithm"
+license = "MIT"
+repository = "https://github.com/SuperInstance/modular-arithmetic"
+keywords = ["modular-arithmetic", "number-theory", "crt", "cryptography", "math"]
+categories = ["cryptography", "mathematics"]
